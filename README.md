@@ -14,5 +14,5 @@ The datasets have been annotated with the same annotation schema, which is the f
 For more detailed information, refer to the Guidelines.
 
 ### People
-Sofia Brenna - University of Pavia
-Bernardo Magnini - FBK
+- Sofia Brenna - University of Pavia
+- Bernardo Magnini - FBK
